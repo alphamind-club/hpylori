@@ -14,5 +14,5 @@ The manual evaluation process was guided in part by the methodologies and findin
 
 The resultant categorization of genes, along with their associated references, is available as a supplemental file on our GitHub repository (https://github.com/alphamind-club/hpylori). We believe this result will serve as a valuable resource for future investigations into H. pylori's genomic characteristics and their implications for its pathogenicity and environmental adaptability.
 
-#RDF FILE
+# RDF FILE
 The .rdf file contains the references used in this paper. Open using Zotero.
