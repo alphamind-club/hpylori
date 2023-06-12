@@ -11,3 +11,5 @@ The manual evaluation process was guided in part by the methodologies and findin
 In parallel to the gene categorization process, we conducted a comprehensive literature review of over 100 scientific works related to protein function in H. pylori. This review aided in associating identified genes with their potential roles in H. pylori's survival and pathogenicity.
 The resultant categorization of genes, along with their associated references, is available as a supplemental file on our GitHub repository (https://github.com/alphamind-club/hpylori). We believe this file will serve as a valuable resource for future investigations into H. pylori's genomic characteristics and their implications for its pathogenicity and environmental adaptability.
 
+#RDF FILE
+The .rdf file contains the references used in this paper. Open using Zotero.
